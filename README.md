@@ -7,7 +7,9 @@ Developed a mobile application for demo of research project and publication of h
 
 •	Developed an efficient and user friendly mobile application using Java for demonstration of project
 
-Android Application Code(Java) - VHO
-Final Report - Final Report.pdf
-Presentation - VHO_Presentation.pptx
-Research Paper - Published Research Paper_ISSN 2347-7393
+Submission Details:
+
+- Android Application Code(Java) - VHO
+- Final Report - Final Report.pdf
+- Presentation - VHO_Presentation.pptx
+- Research Paper - Published Research Paper_ISSN 2347-7393
